@@ -10,8 +10,8 @@ Solution: We have come up with the Python News Scrapper. That Scraps the News fr
 Technologies Used
 1)Python 3.7 - Programming Language
 2)Web Scraping -BeautifulSoup(bs4) and request API - Python Libraries
-4)pysttx and speech recognition(google) - Python text to speech and  speech to text libraries of the python
-3)Visual Studio Code - Code Editor(IDE)
+3)pysttx and speech recognition(google) - Python text to speech and  speech to text libraries of the python
+4)Visual Studio Code - Code Editor(IDE)
 
 Todo
 1)To add the UI to it. I mean moving it into an Application both mobile and desktop Application
