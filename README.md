@@ -8,7 +8,7 @@
 <br />We have come up with the Python News Scrapper. That Scraps the News from the News Website and Provide the top current Trending news and only at the over view
           level only and amazing part is no need to watch it or read it. U just have to listen it as u listen to music. That is awesome right?
           It scraps the news from the news websites  and stores it in database and also checks for the specific keywords in news.
-          <br />
+          <br /><br />
 **Technologies Used**<br />
 1)Python 3.7 - Programming Language<br />
 2)Web Scraping -BeautifulSoup(bs4) and request API - Python Libraries<br />
