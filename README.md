@@ -1,4 +1,4 @@
-# newsscrapper
+# News Scrapper
 **Problem Statement:** 
 <br />Now a days Time means Money.Every single second matter.We are in the growing tech era where we want people utilize their time efficiently. but when
                    see the news or read it. It takes alot of time. and it gives indetail news and not the top onces. People Just want to see what are current trending news
